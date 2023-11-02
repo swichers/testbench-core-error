@@ -11,7 +11,7 @@
     "brianium/paratest": "^7.3",
     "nunomaduro/collision": "^7.10",
     "orchestra/testbench": "^8.0",
-    "orchestra/testbench-core": "8.14.2"
+    "orchestra/testbench-core": "8.14.3"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
